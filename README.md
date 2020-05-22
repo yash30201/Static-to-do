@@ -1,12 +1,13 @@
 # Static To-Do-List App
 <br/>
-Its funtionalities are - 
-* Add list items thought input text field
-* Delete list items by clicking on it
+Its funtionalities are - <br/>
+
++ Add list items thought input text field
++ Delete list items by clicking on it
 
 
 
-<br/><br/><br/>
+<br/>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
