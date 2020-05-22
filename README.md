@@ -1,4 +1,4 @@
-#Static To-Do-List App
+# Static To-Do-List App
 <br/>
 Its funtionalities are - 
 * Add list items thought input text field
